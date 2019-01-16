@@ -1,0 +1,29 @@
+.important {
+	color: #cc4b54;
+	font-style: italic;
+	font-size: 16px;
+	font-weight: bold;
+}
+
+.history {
+	font-size: 16px;
+	color: #d25f67;
+	
+}
+
+h1 {
+	font-size: 30px;
+	color: #d25f67;
+	font-weight: bold;
+}
+
+h2 {
+	font-size: 22px;
+	
+}
+
+.about {
+	color: #87ddd7;
+	font-size: 14px;
+	font-style: italic;
+}

@@ -29,7 +29,10 @@ h2 {
 	color: #6cb0ac;
 	font-size: 14px;
 	font-style: italic;
+	cursor: pointer;	
 }
+
+
 .heading {
 	font-size: 18px;
 	color: #87ddd7;
@@ -37,5 +40,8 @@ h2 {
 }
 .fill-type{
 	font-weight: bold;
-	color: #c34bcc;
+	color: #e72f47;
 }
+ #aboutme:hover {
+	 text-decoration: underline;
+ }

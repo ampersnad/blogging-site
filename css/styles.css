@@ -32,6 +32,10 @@ h2 {
 	cursor: pointer;	
 }
 
+.about:hover {
+	text-decoration: underline;
+}
+
 
 .heading {
 	font-size: 18px;
@@ -42,6 +46,9 @@ h2 {
 	font-weight: bold;
 	color: #e72f47;
 }
- #aboutme:hover {
-	 text-decoration: underline;
+ 
+ .p-background {
+	 background-color: #f7f0c0;
+	 border: 3px solid #f7d5c0;
+	 
  }

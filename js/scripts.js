@@ -1,5 +1,5 @@
 $(document).ready(function() {
-	$("p#aboutme").click(function() {
-		
+	$(".about").click(function() {
+		$(".about").addClass("p-background");
 	});
 });
